@@ -11,7 +11,7 @@ person.age= 24;
 
 console.log(person);
 
-bracket notation
+// bracket notation
 person['name'] = 'Eyosi';
 person['gender'] = 'male'
 person['age'] = 12;
