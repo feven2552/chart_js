@@ -12,9 +12,9 @@ person.age= 24;
 console.log(person);
 
 //bracket notation
-person['name'] = 'Eyosi';
-person['gender'] = 'male'
-person['age'] = 12;
+// person['name'] = 'Eyosi';
+// person['gender'] = 'male'
+// person['age'] = 12;
 
 console.log(person);
 
