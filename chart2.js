@@ -25,7 +25,7 @@ const config = {
     type: 'doughnut',
     data: data,
   };
-  giving data set
+  // giving data set
   const data = {
     labels: [
       'Red',
