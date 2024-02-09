@@ -10,16 +10,16 @@
 //       borderWidth: 1
 
 
-// const ctx4= document.getElementById('scatterchart');
+const ctx4= document.getElementById('scatterchart');
 
-// new Chart(ctx4, {
-//   type: 'scatterchart',
-//   data: {
-//     labels: ['Ethiopia', 'china', 'usa', 'norway', 'Alabania', 'Sweden'],
-//     datasets: [{
-//       label: '300',
-//       data: [12, 19, 3, 5, 2, 3],
-//       borderWidth: 1
+new Chart(ctx4, {
+  type: 'scatterchart',
+  data: {
+    labels: ['Ethiopia', 'china', 'usa', 'norway', 'Alabania', 'Sweden'],
+    datasets: [{
+      label: '300',
+      data: [12, 19, 3, 5, 2, 3],
+      borderWidth: 1
       
     }]
   },
