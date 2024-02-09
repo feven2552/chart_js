@@ -1,17 +1,17 @@
-// const ctx2= document.getElementById('doughnut');
+const ctx2= document.getElementById('doughnut');
 
-// new Chart(ctx2, {
-//   type: 'doughnut',
-//   data: {
-//     labels: ['Ethiopia', 'china', 'usa', 'norway', 'Alabania', 'Sweden'],
-//     datasets: [{
-//       label: '300',
-//       data: [12, 19, 3, 5, 2, 3],
-//       borderWidth: 1
+new Chart(ctx2, {
+  type: 'doughnut',
+  data: {
+    labels: ['Ethiopia', 'china', 'usa', 'norway', 'Alabania', 'Sweden'],
+    datasets: [{
+      label: '300',
+      data: [12, 19, 3, 5, 2, 3],
+      borderWidth: 1
     
       
-//     }]
-//   },
+    }]
+  },
   options: {
     scales: {
       y: {
