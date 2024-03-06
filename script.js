@@ -5,7 +5,6 @@ let person = {
  gender:'undefined',
 }
 
-//dot notation
 person.gender = 'female'
 person.age= 24;
 
